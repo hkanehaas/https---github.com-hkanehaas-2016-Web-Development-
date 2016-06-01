@@ -1,0 +1,22 @@
+{
+  "name": "rudy-project",
+  "version": "1.0.0",
+  "description": "2016 Web Project with Rudy. Thanks Rudy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkanehaas/2016-Web-Development-.git"
+  },
+  "author": "Hannah Marie Polley-Kane-Haas :D",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/hkanehaas/2016-Web-Development-/issues"
+  },
+  "homepage": "https://github.com/hkanehaas/2016-Web-Development-#readme",
+  "dependencies": {
+    "origami-ui": "0.0.2"
+  }
+}
