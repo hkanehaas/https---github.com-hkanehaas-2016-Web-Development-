@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/hkanehaas/2016-Web-Development-#readme",
   "dependencies": {
-    "origami-ui": "0.0.2"
+    "origami-ui": "0.0.2",
+    "process-nextick-args": "^1.0.7"
+  },
+  "devDependencies": {
+    "ember-bootstrap-4": "0.1.0",
+    "ember-cli-sass": "5.3.1"
   }
 }
